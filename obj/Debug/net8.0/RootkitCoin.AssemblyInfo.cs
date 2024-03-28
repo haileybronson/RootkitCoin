@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RootkitCoin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3feaa834c9df33d915da2ffcd382e364fbf25c79")]
 [assembly: System.Reflection.AssemblyProductAttribute("RootkitCoin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RootkitCoin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

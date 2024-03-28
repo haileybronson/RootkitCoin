@@ -1,6 +1,7 @@
 using System.Security.Cryptography;
 using System.Text;
 using EllipticCurve;
+
 namespace RootkitCoin;
 
 public class Transaction

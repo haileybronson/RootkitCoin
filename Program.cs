@@ -1,12 +1,12 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using static System.Console;
-using System.Security.Cryptography;
-using System.Text;
+//using static System.Console;
+//using System.Security.Cryptography;
+//using System.Text;
 using EllipticCurve;
 using Newtonsoft.Json;
-using PublicKey = System.Security.Cryptography.X509Certificates.PublicKey;
-using System.Security.Cryptography.X509Certificates;
+//using PublicKey = System.Security.Cryptography.X509Certificates.PublicKey;
+//using System.Security.Cryptography.X509Certificates;
 
 namespace RootkitCoin
 {

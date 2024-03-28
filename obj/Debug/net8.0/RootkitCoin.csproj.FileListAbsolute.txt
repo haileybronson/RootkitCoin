@@ -15,3 +15,5 @@
 /Users/HaileyP/Documents/RootkitCoin/bin/Debug/net8.0/Newtonsoft.Json.dll
 /Users/HaileyP/Documents/RootkitCoin/obj/Debug/net8.0/RootkitCoin.csproj.AssemblyReference.cache
 /Users/HaileyP/Documents/RootkitCoin/obj/Debug/net8.0/RootkitC.FAF6D92A.Up2Date
+/Users/HaileyP/Documents/RootkitCoin/bin/Debug/net8.0/StarkbankEcdsa.dll
+/Users/HaileyP/Documents/RootkitCoin/obj/Debug/net8.0/RootkitCoin.sourcelink.json
