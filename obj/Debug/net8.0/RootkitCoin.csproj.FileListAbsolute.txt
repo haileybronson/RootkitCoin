@@ -1,0 +1,17 @@
+/Users/HaileyP/Documents/RootkitCoin/bin/Debug/net8.0/RootkitCoin
+/Users/HaileyP/Documents/RootkitCoin/bin/Debug/net8.0/RootkitCoin.deps.json
+/Users/HaileyP/Documents/RootkitCoin/bin/Debug/net8.0/RootkitCoin.runtimeconfig.json
+/Users/HaileyP/Documents/RootkitCoin/bin/Debug/net8.0/RootkitCoin.dll
+/Users/HaileyP/Documents/RootkitCoin/bin/Debug/net8.0/RootkitCoin.pdb
+/Users/HaileyP/Documents/RootkitCoin/obj/Debug/net8.0/RootkitCoin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/HaileyP/Documents/RootkitCoin/obj/Debug/net8.0/RootkitCoin.AssemblyInfoInputs.cache
+/Users/HaileyP/Documents/RootkitCoin/obj/Debug/net8.0/RootkitCoin.AssemblyInfo.cs
+/Users/HaileyP/Documents/RootkitCoin/obj/Debug/net8.0/RootkitCoin.csproj.CoreCompileInputs.cache
+/Users/HaileyP/Documents/RootkitCoin/obj/Debug/net8.0/RootkitCoin.dll
+/Users/HaileyP/Documents/RootkitCoin/obj/Debug/net8.0/refint/RootkitCoin.dll
+/Users/HaileyP/Documents/RootkitCoin/obj/Debug/net8.0/RootkitCoin.pdb
+/Users/HaileyP/Documents/RootkitCoin/obj/Debug/net8.0/RootkitCoin.genruntimeconfig.cache
+/Users/HaileyP/Documents/RootkitCoin/obj/Debug/net8.0/ref/RootkitCoin.dll
+/Users/HaileyP/Documents/RootkitCoin/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/HaileyP/Documents/RootkitCoin/obj/Debug/net8.0/RootkitCoin.csproj.AssemblyReference.cache
+/Users/HaileyP/Documents/RootkitCoin/obj/Debug/net8.0/RootkitC.FAF6D92A.Up2Date
